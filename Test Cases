@@ -1,0 +1,6 @@
+OldPhone.OldPhonePad("2 2#")      // AA
+OldPhone.OldPhonePad("7777 7777#")// SS
+OldPhone.OldPhonePad("8 88777444666*664#") // TURING
+OldPhone.OldPhonePad("#")         // "" (empty string)
+OldPhone.OldPhonePad("0#")        // " " (space)
+OldPhone.OldPhonePad("111#")      // "(" (cycling through symbols on 1)
